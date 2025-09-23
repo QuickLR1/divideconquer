@@ -1,4 +1,4 @@
-package com.myproject.dnc;
+package com.myproject.metrics;
 
 public class Metrics {
     public static long comparisons = 0;

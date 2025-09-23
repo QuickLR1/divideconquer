@@ -1,5 +1,6 @@
 package com.myproject.dnc;
 
+import com.myproject.metrics.Metrics;
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.Random;
