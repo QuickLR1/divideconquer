@@ -1,6 +1,6 @@
 package com.myproject.dnc;
 
-import java.util.Arrays;
+import com.myproject.metrics.Metrics;
 
 public class MergeSort {
 
